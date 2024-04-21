@@ -1,0 +1,12 @@
+{
+  "name": "notification_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "coding": "nodemon index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
